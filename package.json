@@ -1,6 +1,6 @@
 {
   "name": "haruna",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,7 @@
     "bunyan": "^1.8.12",
     "js-yaml": "^3.10.0",
     "lodash": "^4.17.4",
+    "mysql": "^2.14.1",
     "random-useragent": "^0.3.1",
     "request": "^2.82.0"
   }
